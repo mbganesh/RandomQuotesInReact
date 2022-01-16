@@ -25,7 +25,6 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.between('sm','md')]:{
       width: "55vw",
       padding: '2%',
-      backgroundColor:'red'
     },
   },
   bodyWithText: {
